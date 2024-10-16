@@ -1,4 +1,4 @@
-pip install streamlit
+
 import streamlit as st
 
 def celsius_to_fahrenheit(celsius):
